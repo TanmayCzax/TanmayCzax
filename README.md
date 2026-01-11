@@ -16,7 +16,8 @@
  **Cyber+ Programming Language**  
  https://github.com/TanmayCzax/Cyber-Programming-language-Alpha-
 **Viper Cyber security tool**
- https://github.com/TanmayCzax/
+ https://github.com/TanmayCzax/Viper---Advanced-App-for-CyberSecurity
+ # AND MANY MORE!
 
 ### 🧠 Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -34,6 +35,7 @@
 
 ### 🌐 Connect With Me
 - GitHub: https://github.com/TanmayCzax
-- Connect with me on discord
-- Itch.io
+- Connect with me on Reddit -- 
+Savings_Awareness24
+- Itch.io -- https://tanmayczaxx.itch.io/
 
