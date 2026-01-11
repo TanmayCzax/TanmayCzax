@@ -13,11 +13,10 @@
 ---
 
 ### ⚡ Featured Projects
-🚀 **Cyber+ Programming Language**  
-🔹 A DSL built only for Cybersecurity  
-🔹 30+ built-in security tasks  
-🔹 No heavy libraries required  
-👉 https://github.com/TanmayCzax/Cyber-Programming-language-Alpha-
+ **Cyber+ Programming Language**  
+ https://github.com/TanmayCzax/Cyber-Programming-language-Alpha-
+**Viper Cyber security tool**
+ https://github.com/TanmayCzax/
 
 ### 🧠 Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
