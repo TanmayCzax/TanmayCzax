@@ -4,18 +4,19 @@
 # Official Website https://tanmayczax.github.io/CyberPlus-1.0/
 ---
 
-### 🛡️ About Me
-- 🔐 Building **Cyber+** – a domain-specific language for Cybersecurity
+### About Me
+- Building **Cyber+** – a domain-specific language for Cybersecurity
 - Love Cyber security and game development
-- 💻 Focused on **ethical hacking, automation & security tooling**
-- 🚀 Creating **VS Code extensions & interpreters**
-- 🌱 Learning **Go, Systems Programming & Security Engineering**
+- Focused on **ethical hacking, automation & security tooling**
+- Creating **VS Code extensions & interpreters**
+- Learning **Go, Systems Programming & Security Engineering**
 
 ---
 
 ### ⚡ Featured Projects
- **Cyber+ Programming Language**  
- https://github.com/TanmayCzax/Cyber-Programming-language-Alpha-
+ **Cyber+ Programming Language** 
+https://github.com/TanmayCzax/CyberPlus-1.0
+------------------------------
 **Viper Cyber security tool**
  https://github.com/TanmayCzax/Viper---Advanced-App-for-CyberSecurity
  # AND MANY MORE!
