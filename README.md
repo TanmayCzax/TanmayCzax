@@ -15,7 +15,7 @@
 
 ### ⚡ Featured Projects
 **AETHRA Programming language**
-https://github.com/TanmayCzax/AETHRA
+https://tanmayczax.github.io/AETHRA/
 ---------------------------------------
  **Cyber+ Programming Language** 
 https://github.com/TanmayCzax/CyberPlus-1.0
