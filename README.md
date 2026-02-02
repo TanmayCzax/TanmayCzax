@@ -14,9 +14,12 @@
 ---
 
 ### ⚡ Featured Projects
+**AETHRA Programming language**
+https://github.com/TanmayCzax/AETHRA
+---------------------------------------
  **Cyber+ Programming Language** 
 https://github.com/TanmayCzax/CyberPlus-1.0
-------------------------------
+-------------------------------------------
 **Viper Cyber security tool**
  https://github.com/TanmayCzax/Viper---Advanced-App-for-CyberSecurity
  # AND MANY MORE!
@@ -37,7 +40,4 @@ https://github.com/TanmayCzax/CyberPlus-1.0
 
 ### 🌐 Connect With Me
 - GitHub: https://github.com/TanmayCzax
-- Connect with me on Reddit -- 
-https://www.reddit.com/user/Savings_Awareness24/
 - Itch.io -- https://tanmayczaxx.itch.io/
-
