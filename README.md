@@ -15,7 +15,7 @@ https://czax.pages.dev/
 ---
 
 ### ⚡ Featured Projects
-**AETHRA Programming language 
+AETHRA Programming language 
 https://aethralang.pages.dev/
 ---------------------------------------
  **Cyber+ Programming Language** 
